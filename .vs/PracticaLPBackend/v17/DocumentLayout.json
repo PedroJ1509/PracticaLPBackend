@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66534281-4FAA-448F-90F2-C4E849A1F001}|API\\API.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66534281-4FAA-448F-90F2-C4E849A1F001}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869D6F68-A2BD-430D-BE40-29079D69D3A1}|Utilidades\\Utilidades.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\utilidades\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869D6F68-A2BD-430D-BE40-29079D69D3A1}|Utilidades\\Utilidades.csproj|solutionrelative:utilidades\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66534281-4FAA-448F-90F2-C4E849A1F001}|API\\API.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66534281-4FAA-448F-90F2-C4E849A1F001}|API\\API.csproj|solutionrelative:api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66534281-4FAA-448F-90F2-C4E849A1F001}|API\\API.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\api\\extensiones\\servicioidentidadextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66534281-4FAA-448F-90F2-C4E849A1F001}|API\\API.csproj|solutionrelative:api\\extensiones\\servicioidentidadextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66534281-4FAA-448F-90F2-C4E849A1F001}|API\\API.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\api\\controllers\\documentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66534281-4FAA-448F-90F2-C4E849A1F001}|API\\API.csproj|solutionrelative:api\\controllers\\documentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F4D9CD-6C2A-4256-8AAF-ED87BD431F08}|BLL\\BLL.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\bll\\servicios\\interfaces\\idocumentoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F4D9CD-6C2A-4256-8AAF-ED87BD431F08}|BLL\\BLL.csproj|solutionrelative:bll\\servicios\\interfaces\\idocumentoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F4D9CD-6C2A-4256-8AAF-ED87BD431F08}|BLL\\BLL.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\bll\\servicios\\documentoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F4D9CD-6C2A-4256-8AAF-ED87BD431F08}|BLL\\BLL.csproj|solutionrelative:bll\\servicios\\documentoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34F4DD4-DF76-49A6-9322-FC792CBED75A}|Models\\Models.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\models\\dtos\\documentousuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34F4DD4-DF76-49A6-9322-FC792CBED75A}|Models\\Models.csproj|solutionrelative:models\\dtos\\documentousuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34F4DD4-DF76-49A6-9322-FC792CBED75A}|Models\\Models.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\models\\entidades\\documentousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34F4DD4-DF76-49A6-9322-FC792CBED75A}|Models\\Models.csproj|solutionrelative:models\\entidades\\documentousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586A491A-C97B-4EF5-8215-C8B5EEA4FEF9}|Data\\Data.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\data\\repositorio\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A491A-C97B-4EF5-8215-C8B5EEA4FEF9}|Data\\Data.csproj|solutionrelative:data\\repositorio\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34F4DD4-DF76-49A6-9322-FC792CBED75A}|Models\\Models.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\models\\dtos\\documentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34F4DD4-DF76-49A6-9322-FC792CBED75A}|Models\\Models.csproj|solutionrelative:models\\dtos\\documentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586A491A-C97B-4EF5-8215-C8B5EEA4FEF9}|Data\\Data.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\data\\interfaces\\irepositorio\\idocumentorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A491A-C97B-4EF5-8215-C8B5EEA4FEF9}|Data\\Data.csproj|solutionrelative:data\\interfaces\\irepositorio\\idocumentorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586A491A-C97B-4EF5-8215-C8B5EEA4FEF9}|Data\\Data.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\data\\repositorio\\documentorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A491A-C97B-4EF5-8215-C8B5EEA4FEF9}|Data\\Data.csproj|solutionrelative:data\\repositorio\\documentorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34F4DD4-DF76-49A6-9322-FC792CBED75A}|Models\\Models.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\models\\entidades\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34F4DD4-DF76-49A6-9322-FC792CBED75A}|Models\\Models.csproj|solutionrelative:models\\entidades\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586A491A-C97B-4EF5-8215-C8B5EEA4FEF9}|Data\\Data.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\data\\repositorio\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A491A-C97B-4EF5-8215-C8B5EEA4FEF9}|Data\\Data.csproj|solutionrelative:data\\repositorio\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586A491A-C97B-4EF5-8215-C8B5EEA4FEF9}|Data\\Data.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A491A-C97B-4EF5-8215-C8B5EEA4FEF9}|Data\\Data.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586A491A-C97B-4EF5-8215-C8B5EEA4FEF9}|Data\\Data.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\data\\interfaces\\irepositorio\\iunidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A491A-C97B-4EF5-8215-C8B5EEA4FEF9}|Data\\Data.csproj|solutionrelative:data\\interfaces\\irepositorio\\iunidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34F4DD4-DF76-49A6-9322-FC792CBED75A}|Models\\Models.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\models\\dtos\\registrousuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34F4DD4-DF76-49A6-9322-FC792CBED75A}|Models\\Models.csproj|solutionrelative:models\\dtos\\registrousuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C34F4DD4-DF76-49A6-9322-FC792CBED75A}|Models\\Models.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\models\\dtos\\registrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C34F4DD4-DF76-49A6-9322-FC792CBED75A}|Models\\Models.csproj|solutionrelative:models\\dtos\\registrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66534281-4FAA-448F-90F2-C4E849A1F001}|API\\API.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66534281-4FAA-448F-90F2-C4E849A1F001}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586A491A-C97B-4EF5-8215-C8B5EEA4FEF9}|Data\\Data.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\data\\configuraciones\\documentoconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A491A-C97B-4EF5-8215-C8B5EEA4FEF9}|Data\\Data.csproj|solutionrelative:data\\configuraciones\\documentoconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Migrations\\20240722192527_ModificacionDocumentoUsuarioMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20240722192527_ModificacionDocumentoUsuarioMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Migrations\\20240722192224_Inicializacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20240722192224_Inicializacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66534281-4FAA-448F-90F2-C4E849A1F001}|API\\API.csproj|d:\\practicalp_angularnet\\practicalp\\practicalpbackend\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66534281-4FAA-448F-90F2-C4E849A1F001}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAswEUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:15:22.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocumentoServicio.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\BLL\\Servicios\\DocumentoServicio.cs",
+              "RelativeDocumentMoniker": "BLL\\Servicios\\DocumentoServicio.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\BLL\\Servicios\\DocumentoServicio.cs",
+              "RelativeToolTip": "BLL\\Servicios\\DocumentoServicio.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAAJgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:13:00.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DocumentoRepositorio.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Repositorio\\DocumentoRepositorio.cs",
+              "RelativeDocumentMoniker": "Data\\Repositorio\\DocumentoRepositorio.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Repositorio\\DocumentoRepositorio.cs",
+              "RelativeToolTip": "Data\\Repositorio\\DocumentoRepositorio.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:34:02.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DocumentoDto.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Models\\DTOs\\DocumentoDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\DocumentoDto.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Models\\DTOs\\DocumentoDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\DocumentoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T22:42:44.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DocumentoUsuario.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Models\\Entidades\\DocumentoUsuario.cs",
+              "RelativeDocumentMoniker": "Models\\Entidades\\DocumentoUsuario.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Models\\Entidades\\DocumentoUsuario.cs",
+              "RelativeToolTip": "Models\\Entidades\\DocumentoUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T14:42:28.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnidadTrabajo.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Repositorio\\UnidadTrabajo.cs",
+              "RelativeDocumentMoniker": "Data\\Repositorio\\UnidadTrabajo.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Repositorio\\UnidadTrabajo.cs",
+              "RelativeToolTip": "Data\\Repositorio\\UnidadTrabajo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:11:39.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Utilidades\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Utilidades\\MappingProfile.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Utilidades\\MappingProfile.cs",
+              "RelativeToolTip": "Utilidades\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:17:04.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T15:51:47.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDocumentoServicio.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\BLL\\Servicios\\Interfaces\\IDocumentoServicio.cs",
+              "RelativeDocumentMoniker": "BLL\\Servicios\\Interfaces\\IDocumentoServicio.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\BLL\\Servicios\\Interfaces\\IDocumentoServicio.cs",
+              "RelativeToolTip": "BLL\\Servicios\\Interfaces\\IDocumentoServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:25:07.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicioIdentidadExtension.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\API\\Extensiones\\ServicioIdentidadExtension.cs",
+              "RelativeDocumentMoniker": "API\\Extensiones\\ServicioIdentidadExtension.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\API\\Extensiones\\ServicioIdentidadExtension.cs",
+              "RelativeToolTip": "API\\Extensiones\\ServicioIdentidadExtension.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T22:26:01.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentoController.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\API\\Controllers\\DocumentoController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\DocumentoController.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\API\\Controllers\\DocumentoController.cs",
+              "RelativeToolTip": "API\\Controllers\\DocumentoController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA2wDkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T20:42:36.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DocumentoUsuarioDto.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Models\\DTOs\\DocumentoUsuarioDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\DocumentoUsuarioDto.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Models\\DTOs\\DocumentoUsuarioDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\DocumentoUsuarioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:45:47.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDocumentoRepositorio.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Interfaces\\IRepositorio\\IDocumentoRepositorio.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IRepositorio\\IDocumentoRepositorio.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Interfaces\\IRepositorio\\IDocumentoRepositorio.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IRepositorio\\IDocumentoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:21:10.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:00:57.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Models\\Entidades\\Documento.cs",
+              "RelativeDocumentMoniker": "Models\\Entidades\\Documento.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Models\\Entidades\\Documento.cs",
+              "RelativeToolTip": "Models\\Entidades\\Documento.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:01:46.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Repositorio.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Repositorio\\Repositorio.cs",
+              "RelativeDocumentMoniker": "Data\\Repositorio\\Repositorio.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Repositorio\\Repositorio.cs",
+              "RelativeToolTip": "Data\\Repositorio\\Repositorio.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:11:46.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUnidadTrabajo.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Interfaces\\IRepositorio\\IUnidadTrabajo.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IRepositorio\\IUnidadTrabajo.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Interfaces\\IRepositorio\\IUnidadTrabajo.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IRepositorio\\IUnidadTrabajo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:11:57.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegistroDto.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Models\\DTOs\\RegistroDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\RegistroDto.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Models\\DTOs\\RegistroDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\RegistroDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:00:01.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:45:23.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegistroUsuarioDto.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Models\\DTOs\\RegistroUsuarioDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\RegistroUsuarioDto.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Models\\DTOs\\RegistroUsuarioDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\RegistroUsuarioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:03:45.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240722192527_ModificacionDocumentoUsuarioMigration.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Migrations\\20240722192527_ModificacionDocumentoUsuarioMigration.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240722192527_ModificacionDocumentoUsuarioMigration.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Migrations\\20240722192527_ModificacionDocumentoUsuarioMigration.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240722192527_ModificacionDocumentoUsuarioMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:25:28.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DocumentoConfiguracion.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Configuraciones\\DocumentoConfiguracion.cs",
+              "RelativeDocumentMoniker": "Data\\Configuraciones\\DocumentoConfiguracion.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Configuraciones\\DocumentoConfiguracion.cs",
+              "RelativeToolTip": "Data\\Configuraciones\\DocumentoConfiguracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:52:42.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240722192224_Inicializacion.cs",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Migrations\\20240722192224_Inicializacion.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240722192224_Inicializacion.cs",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\Data\\Migrations\\20240722192224_Inicializacion.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240722192224_Inicializacion.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:22:24.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "D:\\PracticaLP_AngularNet\\PracticaLP\\PracticaLPBackend\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T15:51:44.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
